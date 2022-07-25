@@ -54,7 +54,7 @@ See your tickets.
 See the winner. 
 <br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/58791994/180842602-80df7aff-aec1-4be9-af17-7b1ad311d49e.png" alt="Home" width="40%"/>
+<img src="https://user-images.githubusercontent.com/58791994/180843460-5c2e1565-8a31-4099-b094-ed90a0d57ecf.png" alt="Home" width="40%"/>
 </div>
 <br><br>
 
@@ -68,7 +68,16 @@ Withdraw or exchange your tokens for ether.
 <br>
 <br>
 
+******
+
 The administrator can generate the lottery winner. Once generated the winner receives the prize in tokens which can be exchanged for ether.
+
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/58791994/180842602-80df7aff-aec1-4be9-af17-7b1ad311d49e.png" alt="Home" width="40%"/>
+</div>
+<br><br>
+
 Some of the operations that the user performs in the platform require signature through the metaMask provider since they are procedures that directly affect the blockchain.
 
 ### STACK TECNOLÓGICO
