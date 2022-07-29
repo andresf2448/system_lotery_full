@@ -14,7 +14,7 @@ In the platform users can:
 
 ******
 
-see your balance.
+See your balance.
 
 <br>
 <div align="center">
